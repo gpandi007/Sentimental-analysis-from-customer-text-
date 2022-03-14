@@ -1,0 +1,7 @@
+cd E:\work\Barclays\Sentiment-Analysis-App
+
+python -m venv venv
+
+venv\Scripts\activate
+
+python app.py
